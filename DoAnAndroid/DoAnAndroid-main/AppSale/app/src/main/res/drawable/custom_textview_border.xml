@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- Background color for the TextView -->
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Set your desired background color here -->
+        </shape>
+    </item>
+    <item android:right="1dp" android:left="1dp" android:top="1dp" android:bottom="1dp">
+        <!-- Border -->
+        <shape android:shape="rectangle">
+            <stroke android:color="#000000" android:width="2dp" /> <!-- Set border color and width -->
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/month_1"
+        android:title="Tháng 1" />
+    <item
+        android:id="@+id/month_2"
+        android:title="Tháng 2" />
+    <item
+        android:id="@+id/month_3"
+        android:title="Tháng 3" />
+    <item
+        android:id="@+id/month_4"
+        android:title="Tháng 4" />
+    <item
+        android:id="@+id/month_5"
+        android:title="Tháng 5" />
+    <item
+        android:id="@+id/month_6"
+        android:title="Tháng 6" />
+    <item
+        android:id="@+id/month_7"
+        android:title="Tháng 7" />
+    <item
+        android:id="@+id/month_8"
+        android:title="Tháng 8" />
+    <item
+        android:id="@+id/month_9"
+        android:title="Tháng 9" />
+    <item
+        android:id="@+id/month_10"
+        android:title="Tháng 10" />
+    <item
+        android:id="@+id/month_11"
+        android:title="Tháng 11" />
+
+    <item
+        android:id="@+id/month_12"
+        android:title="Tháng 12" />
+</menu>

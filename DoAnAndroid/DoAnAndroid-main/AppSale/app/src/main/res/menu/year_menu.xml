@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nam_2019"
+        android:title="Năm 2019" />
+    <item
+        android:id="@+id/nam_2020"
+        android:title="Năm 2020" />
+    <item
+        android:id="@+id/nam_2021"
+        android:title="Năm 2021" />
+    <item
+        android:id="@+id/nam_2022"
+        android:title="Năm 2022" />
+    <item
+        android:id="@+id/nam_2023"
+        android:title="Năm 2023" />
+</menu>

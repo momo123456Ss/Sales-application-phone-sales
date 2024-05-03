@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSale</string>
+    <string name="err_name">Please enter valid name</string>
+    <string name="err_phone">Please enter valid phone number</string>
+    <string name="err_email">Please enter valid email</string>
+    <string name="err_password">Please enter valid password</string>
+</resources>
